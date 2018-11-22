@@ -4,7 +4,7 @@
 #
 Name     : perl-Text-Glob
 Version  : 0.11
-Release  : 2
+Release  : 3
 URL      : https://cpan.metacpan.org/authors/id/R/RC/RCLAMP/Text-Glob-0.11.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RC/RCLAMP/Text-Glob-0.11.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libt/libtext-glob-perl/libtext-glob-perl_0.10-1.debian.tar.xz
@@ -77,7 +77,7 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.26.1/Text/Glob.pm
+/usr/lib/perl5/vendor_perl/5.28.0/Text/Glob.pm
 
 %files dev
 %defattr(-,root,root,-)
