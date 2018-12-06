@@ -4,7 +4,7 @@
 #
 Name     : perl-Text-Glob
 Version  : 0.11
-Release  : 6
+Release  : 7
 URL      : https://cpan.metacpan.org/authors/id/R/RC/RCLAMP/Text-Glob-0.11.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RC/RCLAMP/Text-Glob-0.11.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libt/libtext-glob-perl/libtext-glob-perl_0.10-1.debian.tar.xz
